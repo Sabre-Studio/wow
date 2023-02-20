@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "BLIZZ",
+    "dotenv",
+    "fastapi",
+    "leaderboard",
+    "pydantic",
+    "toolbelt",
+    "uvicorn"
+  ],
+  "python.formatting.provider": "black"
+}

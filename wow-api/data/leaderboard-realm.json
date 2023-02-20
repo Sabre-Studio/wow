@@ -1,0 +1,169 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/?namespace=dynamic-us"
+    }
+  },
+  "current_leaderboards": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/2/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Temple of the Jade Serpent",
+        "es_MX": "Templo del Dragón de Jade",
+        "pt_BR": "Templo da Serpente de Jade",
+        "de_DE": "Der Tempel der Jadeschlange",
+        "en_GB": "Temple of the Jade Serpent",
+        "es_ES": "Templo del Dragón de Jade",
+        "fr_FR": "Temple du Serpent de jade",
+        "it_IT": "Tempio della Serpe di Giada",
+        "ru_RU": "Храм Нефритовой Змеи",
+        "ko_KR": "옥룡사",
+        "zh_TW": "玉蛟寺",
+        "zh_CN": "青龙寺"
+      },
+      "id": 2
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/165/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Shadowmoon Burial Grounds",
+        "es_MX": "Cementerios de Sombraluna",
+        "pt_BR": "Sepulcrário da Lua Negra",
+        "de_DE": "Die Schattenmondgrabstätte",
+        "en_GB": "Shadowmoon Burial Grounds",
+        "es_ES": "Cementerio de Sombraluna",
+        "fr_FR": "Terres sacrées d’Ombrelune",
+        "it_IT": "Necropoli dei Torvaluna",
+        "ru_RU": "Некрополь Призрачной Луны",
+        "ko_KR": "어둠달 지하묘지",
+        "zh_TW": "影月墓地",
+        "zh_CN": "影月墓地"
+      },
+      "id": 165
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/200/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Halls of Valor",
+        "es_MX": "Salones del Valor",
+        "pt_BR": "Salões da Bravura",
+        "de_DE": "Die Hallen der Tapferkeit",
+        "en_GB": "Halls of Valor",
+        "es_ES": "Cámaras del Valor",
+        "fr_FR": "Salles des Valeureux",
+        "it_IT": "Sale del Valore",
+        "ru_RU": "Чертоги Доблести",
+        "ko_KR": "용맹의 전당",
+        "zh_TW": "英靈殿",
+        "zh_CN": "英灵殿"
+      },
+      "id": 200
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/210/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Court of Stars",
+        "es_MX": "Corte de Estrellas",
+        "pt_BR": "Pátio das Estrelas",
+        "de_DE": "Der Hof der Sterne",
+        "en_GB": "Court of Stars",
+        "es_ES": "Corte de las Estrellas",
+        "fr_FR": "Cour des Étoiles",
+        "it_IT": "Corte delle Stelle",
+        "ru_RU": "Квартал Звезд",
+        "ko_KR": "별의 궁정",
+        "zh_TW": "眾星之廷",
+        "zh_CN": "群星庭院"
+      },
+      "id": 210
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/399/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Ruby Life Pools",
+        "es_MX": "Estanques de Vida Rubí",
+        "pt_BR": "Poços da Vida Rubi",
+        "de_DE": "Rubinlebensbecken",
+        "en_GB": "Ruby Life Pools",
+        "es_ES": "Estanques de Vida Rubí",
+        "fr_FR": "Bassins de l’Essence rubis",
+        "it_IT": "Pozze della Vita di Rubino",
+        "ru_RU": "Рубиновые Омуты Жизни",
+        "ko_KR": "루비 생명의 웅덩이",
+        "zh_TW": "晶紅生命之池",
+        "zh_CN": "红玉新生法池"
+      },
+      "id": 399
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/400/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "The Nokhud Offensive",
+        "es_MX": "El Ataque Nokhud",
+        "pt_BR": "A Ofensiva Nokhid",
+        "de_DE": "Angriff der Nokhud",
+        "en_GB": "The Nokhud Offensive",
+        "es_ES": "La Ofensiva Nokhud",
+        "fr_FR": "L’offensive nokhud",
+        "it_IT": "Offensiva dei Nokhud",
+        "ru_RU": "Наступление клана Нокхуд",
+        "ko_KR": "노쿠드 공격대",
+        "zh_TW": "諾庫德進攻據點",
+        "zh_CN": "诺库德阻击战"
+      },
+      "id": 400
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/401/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "The Azure Vault",
+        "es_MX": "La Bóveda Azur",
+        "pt_BR": "Câmara Lazúli",
+        "de_DE": "Azurblaues Gewölbe",
+        "en_GB": "The Azure Vault",
+        "es_ES": "La Cámara Azur",
+        "fr_FR": "Caveau d’Azur",
+        "it_IT": "Cripta Azzurra",
+        "ru_RU": "Лазурное хранилище",
+        "ko_KR": "하늘빛 보관소",
+        "zh_TW": "蒼藍密庫",
+        "zh_CN": "碧蓝魔馆"
+      },
+      "id": 401
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/5/mythic-leaderboard/402/period/894?namespace=dynamic-us"
+      },
+      "name": {
+        "en_US": "Algeth'ar Academy",
+        "es_MX": "Academia Algeth'ar",
+        "pt_BR": "Academia Algeth'ar",
+        "de_DE": "Akademie von Algeth'ar",
+        "en_GB": "Algeth'ar Academy",
+        "es_ES": "Academia Algeth'ar",
+        "fr_FR": "Académie d’Algeth’ar",
+        "it_IT": "Accademia di Algeth'ar",
+        "ru_RU": "Академия Алгет'ар",
+        "ko_KR": "알게타르 대학",
+        "zh_TW": "阿爾蓋薩學院",
+        "zh_CN": "艾杰斯亚学院"
+      },
+      "id": 402
+    }
+  ]
+}
