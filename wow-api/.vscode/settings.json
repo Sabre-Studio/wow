@@ -4,7 +4,10 @@
     "dotenv",
     "fastapi",
     "leaderboard",
+    "leaderboards",
+    "Proudmoore",
     "pydantic",
+    "pytz",
     "toolbelt",
     "uvicorn"
   ],

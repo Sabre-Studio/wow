@@ -1,0 +1,50 @@
+version: "3.8"
+services:
+  wow-app:
+    container_name: wow-app
+    image: wow-app
+    stdin_open: true
+    build:
+      context: ./wow-app
+      target: dev
+    command: [yarn, dev, --host]
+    ports:
+      - 3000:5173
+    volumes:
+      - "./wow-app:/app"
+      - "/app/node_modules"
+    networks:
+      - wow-network
+
+  wow-api:
+    container_name: wow-api
+    image: wow-api
+    build:
+      context: ./wow-api
+      target: dev
+    command: [python, api.py]
+    volumes:
+      - ./wow-api:/app
+    networks:
+      - wow-network
+    ports:
+      - 8080:8080
+
+  pg_db:
+    container_name: wow-pg
+    image: postgres:bullseye
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: pass
+    volumes:
+      - wow-db:/var/lib/postgresql/data
+    networks:
+      - wow-network
+
+volumes:
+  wow-db:
+
+networks:
+  wow-network:
+    name: wow-network
