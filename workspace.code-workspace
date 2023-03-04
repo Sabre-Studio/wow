@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": "."
+    },
+    {
+      "name": "Docs",
+      "path": "./docs"
+    },
+    {
+      "name": "App",
+      "path": "./apps/wow-app"
+    },
+    {
+      "name": "Api",
+      "path": "./services/wow-api"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "**/Thumbs.db": true
+    },
+    "cSpell.words": ["clsx"]
+  }
+}

@@ -1,0 +1,4865 @@
+{
+  "page": 1,
+  "pageSize": 19,
+  "maxPageSize": 100,
+  "pageCount": 1,
+  "results": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/60?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Stormrage",
+              "ru_RU": "Stormrage",
+              "en_GB": "Stormrage",
+              "zh_TW": "怒風",
+              "ko_KR": "Stormrage",
+              "en_US": "Stormrage",
+              "es_MX": "Stormrage",
+              "pt_BR": "Stormrage",
+              "es_ES": "Stormrage",
+              "zh_CN": "风暴之怒",
+              "fr_FR": "Stormrage",
+              "de_DE": "Stormrage"
+            },
+            "id": 60,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "stormrage"
+          }
+        ],
+        "id": 60,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/61?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Zul'jin",
+              "ru_RU": "Zul'jin",
+              "en_GB": "Zul'jin",
+              "zh_TW": "祖爾金",
+              "ko_KR": "Zul'jin",
+              "en_US": "Zul'jin",
+              "es_MX": "Zul'jin",
+              "pt_BR": "Zul'jin",
+              "es_ES": "Zul'jin",
+              "zh_CN": "祖尔金",
+              "fr_FR": "Zul'jin",
+              "de_DE": "Zul'jin"
+            },
+            "id": 61,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "zuljin"
+          }
+        ],
+        "id": 61,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/63?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Durotan",
+              "ru_RU": "Durotan",
+              "en_GB": "Durotan",
+              "zh_TW": "杜洛坦",
+              "ko_KR": "Durotan",
+              "en_US": "Durotan",
+              "es_MX": "Durotan",
+              "pt_BR": "Durotan",
+              "es_ES": "Durotan",
+              "zh_CN": "杜隆坦",
+              "fr_FR": "Durotan",
+              "de_DE": "Durotan"
+            },
+            "id": 63,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "durotan"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Ysera",
+              "ru_RU": "Изера",
+              "en_GB": "Ysera",
+              "zh_TW": "伊瑟拉",
+              "ko_KR": "Ysera",
+              "en_US": "Ysera",
+              "es_MX": "Ysera",
+              "pt_BR": "Ysera",
+              "es_ES": "Ysera",
+              "zh_CN": "伊瑟拉",
+              "fr_FR": "Ysera",
+              "de_DE": "Ysera"
+            },
+            "id": 1270,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "ysera"
+          }
+        ],
+        "id": 63,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/64?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Bloodhoof",
+              "ru_RU": "Bloodhoof",
+              "en_GB": "Bloodhoof",
+              "zh_TW": "血蹄",
+              "ko_KR": "Bloodhoof",
+              "en_US": "Bloodhoof",
+              "es_MX": "Bloodhoof",
+              "pt_BR": "Bloodhoof",
+              "es_ES": "Bloodhoof",
+              "zh_CN": "凯恩血蹄",
+              "fr_FR": "Bloodhoof",
+              "de_DE": "Bloodhoof"
+            },
+            "id": 64,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "bloodhoof"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Duskwood",
+              "ru_RU": "Duskwood",
+              "en_GB": "Duskwood",
+              "zh_TW": "暮色森林",
+              "ko_KR": "Duskwood",
+              "en_US": "Duskwood",
+              "es_MX": "Duskwood",
+              "pt_BR": "Duskwood",
+              "es_ES": "Duskwood",
+              "zh_CN": "暮色森林",
+              "fr_FR": "Duskwood",
+              "de_DE": "Duskwood"
+            },
+            "id": 1258,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "duskwood"
+          }
+        ],
+        "id": 64,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/67?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Elune",
+              "ru_RU": "Elune",
+              "en_GB": "Elune",
+              "zh_TW": "伊露恩",
+              "ko_KR": "Elune",
+              "en_US": "Elune",
+              "es_MX": "Elune",
+              "pt_BR": "Elune",
+              "es_ES": "Elune",
+              "zh_CN": "艾露恩",
+              "fr_FR": "Elune",
+              "de_DE": "Elune"
+            },
+            "id": 67,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "elune"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Laughing Skull",
+              "ru_RU": "Laughing Skull",
+              "en_GB": "Laughing Skull",
+              "zh_TW": "獰笑骷髏",
+              "ko_KR": "Laughing Skull",
+              "en_US": "Laughing Skull",
+              "es_MX": "Laughing Skull",
+              "pt_BR": "Laughing Skull",
+              "es_ES": "Laughing Skull",
+              "zh_CN": "嘲颅",
+              "fr_FR": "Laughing Skull",
+              "de_DE": "Laughing Skull"
+            },
+            "id": 101,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "laughing-skull"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Auchindoun",
+              "ru_RU": "Аукиндон",
+              "en_GB": "Auchindoun",
+              "zh_TW": "奧齊頓",
+              "ko_KR": "Auchindoun",
+              "en_US": "Auchindoun",
+              "es_MX": "Auchindoun",
+              "pt_BR": "Auchindoun",
+              "es_ES": "Auchindoun",
+              "zh_CN": "奥金顿",
+              "fr_FR": "Auchindoun",
+              "de_DE": "Auchindoun"
+            },
+            "id": 1555,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "auchindoun"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Cho'gall",
+              "ru_RU": "Cho'gall",
+              "en_GB": "Cho'gall",
+              "zh_TW": "丘加利",
+              "ko_KR": "Cho'gall",
+              "en_US": "Cho'gall",
+              "es_MX": "Cho'gall",
+              "pt_BR": "Cho'gall",
+              "es_ES": "Cho'gall",
+              "zh_CN": "古加尔",
+              "fr_FR": "Cho'gall",
+              "de_DE": "Cho'gall"
+            },
+            "id": 1067,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "chogall"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Gilneas",
+              "ru_RU": "Gilneas",
+              "en_GB": "Gilneas",
+              "zh_TW": "吉爾尼斯",
+              "ko_KR": "Gilneas",
+              "en_US": "Gilneas",
+              "es_MX": "Gilneas",
+              "pt_BR": "Gilneas",
+              "es_ES": "Gilneas",
+              "zh_CN": "吉尔尼斯",
+              "fr_FR": "Gilneas",
+              "de_DE": "Gilneas"
+            },
+            "id": 97,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "gilneas"
+          }
+        ],
+        "id": 67,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Media",
+            "ru_RU": "Средняя",
+            "en_GB": "Medium",
+            "zh_TW": "中",
+            "ko_KR": "보통",
+            "en_US": "Medium",
+            "es_MX": "Medio",
+            "pt_BR": "Médio",
+            "es_ES": "Medio",
+            "zh_CN": "中",
+            "fr_FR": "Moyenne",
+            "de_DE": "Mittel"
+          },
+          "type": "MEDIUM"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/69?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Arthas",
+              "ru_RU": "Arthas",
+              "en_GB": "Arthas",
+              "zh_TW": "阿薩斯",
+              "ko_KR": "Arthas",
+              "en_US": "Arthas",
+              "es_MX": "Arthas",
+              "pt_BR": "Arthas",
+              "es_ES": "Arthas",
+              "zh_CN": "阿尔萨斯",
+              "fr_FR": "Arthas",
+              "de_DE": "Arthas"
+            },
+            "id": 69,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "arthas"
+          }
+        ],
+        "id": 69,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/71?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Warsong",
+              "ru_RU": "Warsong",
+              "en_GB": "Warsong",
+              "zh_TW": "戰歌",
+              "ko_KR": "Warsong",
+              "en_US": "Warsong",
+              "es_MX": "Warsong",
+              "pt_BR": "Warsong",
+              "es_ES": "Warsong",
+              "zh_CN": "战歌",
+              "fr_FR": "Warsong",
+              "de_DE": "Warsong"
+            },
+            "id": 71,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "warsong"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Gorgonnash",
+              "ru_RU": "Gorgonnash",
+              "en_GB": "Gorgonnash",
+              "zh_TW": "戈古納斯",
+              "ko_KR": "Gorgonnash",
+              "en_US": "Gorgonnash",
+              "es_MX": "Gorgonnash",
+              "pt_BR": "Gorgonnash",
+              "es_ES": "Gorgonnash",
+              "zh_CN": "戈古纳斯",
+              "fr_FR": "Gorgonnash",
+              "de_DE": "Gorgonnash"
+            },
+            "id": 80,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "gorgonnash"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "The Forgotten Coast",
+              "ru_RU": "The Forgotten Coast",
+              "en_GB": "The Forgotten Coast",
+              "zh_TW": "被遺忘的海岸",
+              "ko_KR": "The Forgotten Coast",
+              "en_US": "The Forgotten Coast",
+              "es_MX": "The Forgotten Coast",
+              "pt_BR": "The Forgotten Coast",
+              "es_ES": "The Forgotten Coast",
+              "zh_CN": "遗忘海岸",
+              "fr_FR": "The Forgotten Coast",
+              "de_DE": "The Forgotten Coast"
+            },
+            "id": 1344,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "the-forgotten-coast"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Balnazzar",
+              "ru_RU": "Balnazzar",
+              "en_GB": "Balnazzar",
+              "zh_TW": "巴納札爾",
+              "ko_KR": "Balnazzar",
+              "en_US": "Balnazzar",
+              "es_MX": "Balnazzar",
+              "pt_BR": "Balnazzar",
+              "es_ES": "Balnazzar",
+              "zh_CN": "巴纳扎尔",
+              "fr_FR": "Balnazzar",
+              "de_DE": "Balnazzar"
+            },
+            "id": 1075,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "balnazzar"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Alterac Mountains",
+              "ru_RU": "Alterac Mountains",
+              "en_GB": "Alterac Mountains",
+              "zh_TW": "奧特蘭克山脈",
+              "ko_KR": "Alterac Mountains",
+              "en_US": "Alterac Mountains",
+              "es_MX": "Alterac Mountains",
+              "pt_BR": "Alterac Mountains",
+              "es_ES": "Alterac Mountains",
+              "zh_CN": "奥特兰克",
+              "fr_FR": "Alterac Mountains",
+              "de_DE": "Alterac Mountains"
+            },
+            "id": 1293,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "alterac-mountains"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Undermine",
+              "ru_RU": "Undermine",
+              "en_GB": "Undermine",
+              "zh_TW": "幽坑城",
+              "ko_KR": "Undermine",
+              "en_US": "Undermine",
+              "es_MX": "Undermine",
+              "pt_BR": "Undermine",
+              "es_ES": "Undermine",
+              "zh_CN": "安德麦",
+              "fr_FR": "Undermine",
+              "de_DE": "Undermine"
+            },
+            "id": 1294,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "undermine"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Anvilmar",
+              "ru_RU": "Anvilmar",
+              "en_GB": "Anvilmar",
+              "zh_TW": "安威瑪",
+              "ko_KR": "Anvilmar",
+              "en_US": "Anvilmar",
+              "es_MX": "Anvilmar",
+              "pt_BR": "Anvilmar",
+              "es_ES": "Anvilmar",
+              "zh_CN": "安威玛尔",
+              "fr_FR": "Anvilmar",
+              "de_DE": "Anvilmar"
+            },
+            "id": 1288,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "anvilmar"
+          }
+        ],
+        "id": 71,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/73?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Bleeding Hollow",
+              "ru_RU": "Bleeding Hollow",
+              "en_GB": "Bleeding Hollow",
+              "zh_TW": "血之谷",
+              "ko_KR": "Bleeding Hollow",
+              "en_US": "Bleeding Hollow",
+              "es_MX": "Bleeding Hollow",
+              "pt_BR": "Bleeding Hollow",
+              "es_ES": "Bleeding Hollow",
+              "zh_CN": "血环",
+              "fr_FR": "Bleeding Hollow",
+              "de_DE": "Bleeding Hollow"
+            },
+            "id": 73,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "bleeding-hollow"
+          }
+        ],
+        "id": 73,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Alta",
+            "ru_RU": "Высокая",
+            "en_GB": "High",
+            "zh_TW": "高",
+            "ko_KR": "혼잡",
+            "en_US": "High",
+            "es_MX": "Alto",
+            "pt_BR": "Alto",
+            "es_ES": "Alto",
+            "zh_CN": "高",
+            "fr_FR": "Élevée",
+            "de_DE": "Hoch"
+          },
+          "type": "HIGH"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/75?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Argent Dawn",
+              "ru_RU": "Серебряный Рассвет",
+              "en_GB": "Argent Dawn",
+              "zh_TW": "銀色黎明",
+              "ko_KR": "Argent Dawn",
+              "en_US": "Argent Dawn",
+              "es_MX": "Argent Dawn",
+              "pt_BR": "Argent Dawn",
+              "es_ES": "Argent Dawn",
+              "zh_CN": "银色黎明",
+              "fr_FR": "Argent Dawn",
+              "de_DE": "Argent Dawn"
+            },
+            "id": 75,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Gioco di Ruolo",
+                "ru_RU": "Ролевой",
+                "en_GB": "Roleplaying",
+                "zh_TW": "角色扮演",
+                "ko_KR": "롤플레이",
+                "en_US": "Roleplaying",
+                "es_MX": "Juego de rol",
+                "pt_BR": "Interpretação",
+                "es_ES": "Juego de rol",
+                "zh_CN": "角色扮演",
+                "fr_FR": "JdR",
+                "de_DE": "Rollenspiel"
+              },
+              "type": "RP"
+            },
+            "slug": "argent-dawn"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "The Scryers",
+              "ru_RU": "The Scryers",
+              "en_GB": "The Scryers",
+              "zh_TW": "占卜者",
+              "ko_KR": "The Scryers",
+              "en_US": "The Scryers",
+              "es_MX": "The Scryers",
+              "pt_BR": "The Scryers",
+              "es_ES": "The Scryers",
+              "zh_CN": "占星者",
+              "fr_FR": "The Scryers",
+              "de_DE": "The Scryers"
+            },
+            "id": 1570,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Gioco di Ruolo",
+                "ru_RU": "Ролевой",
+                "en_GB": "Roleplaying",
+                "zh_TW": "角色扮演",
+                "ko_KR": "롤플레이",
+                "en_US": "Roleplaying",
+                "es_MX": "Juego de rol",
+                "pt_BR": "Interpretação",
+                "es_ES": "Juego de rol",
+                "zh_CN": "角色扮演",
+                "fr_FR": "JdR",
+                "de_DE": "Rollenspiel"
+              },
+              "type": "RP"
+            },
+            "slug": "the-scryers"
+          }
+        ],
+        "id": 75,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/78?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Magtheridon",
+              "ru_RU": "Magtheridon",
+              "en_GB": "Magtheridon",
+              "zh_TW": "瑪瑟里頓",
+              "ko_KR": "Magtheridon",
+              "en_US": "Magtheridon",
+              "es_MX": "Magtheridon",
+              "pt_BR": "Magtheridon",
+              "es_ES": "Magtheridon",
+              "zh_CN": "玛瑟里顿",
+              "fr_FR": "Magtheridon",
+              "de_DE": "Magtheridon"
+            },
+            "id": 78,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "magtheridon"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Anetheron",
+              "ru_RU": "Anetheron",
+              "en_GB": "Anetheron",
+              "zh_TW": "安納塞隆",
+              "ko_KR": "Anetheron",
+              "en_US": "Anetheron",
+              "es_MX": "Anetheron",
+              "pt_BR": "Anetheron",
+              "es_ES": "Anetheron",
+              "zh_CN": "安纳塞隆",
+              "fr_FR": "Anetheron",
+              "de_DE": "Anetheron"
+            },
+            "id": 1264,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "anetheron"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Ysondre",
+              "ru_RU": "Ysondre",
+              "en_GB": "Ysondre",
+              "zh_TW": "伊索德雷",
+              "ko_KR": "Ysondre",
+              "en_US": "Ysondre",
+              "es_MX": "Ysondre",
+              "pt_BR": "Ysondre",
+              "es_ES": "Ysondre",
+              "zh_CN": "伊森德雷",
+              "fr_FR": "Ysondre",
+              "de_DE": "Ysondre"
+            },
+            "id": 1268,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "ysondre"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Altar of Storms",
+              "ru_RU": "Altar of Storms",
+              "en_GB": "Altar of Storms",
+              "zh_TW": "風暴祭壇",
+              "ko_KR": "Altar of Storms",
+              "en_US": "Altar of Storms",
+              "es_MX": "Altar of Storms",
+              "pt_BR": "Altar of Storms",
+              "es_ES": "Altar of Storms",
+              "zh_CN": "暴风祭坛",
+              "fr_FR": "Altar of Storms",
+              "de_DE": "Altar of Storms"
+            },
+            "id": 1282,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "altar-of-storms"
+          }
+        ],
+        "id": 78,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/96?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Eonar",
+              "ru_RU": "Eonar",
+              "en_GB": "Eonar",
+              "zh_TW": "伊歐娜",
+              "ko_KR": "Eonar",
+              "en_US": "Eonar",
+              "es_MX": "Eonar",
+              "pt_BR": "Eonar",
+              "es_ES": "Eonar",
+              "zh_CN": "艾欧娜尔",
+              "fr_FR": "Eonar",
+              "de_DE": "Eonar"
+            },
+            "id": 96,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "eonar"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Skullcrusher",
+              "ru_RU": "Skullcrusher",
+              "en_GB": "Skullcrusher",
+              "zh_TW": "碎顱氏族",
+              "ko_KR": "Skullcrusher",
+              "en_US": "Skullcrusher",
+              "es_MX": "Skullcrusher",
+              "pt_BR": "Skullcrusher",
+              "es_ES": "Skullcrusher",
+              "zh_CN": "碎颅者",
+              "fr_FR": "Skullcrusher",
+              "de_DE": "Skullcrusher"
+            },
+            "id": 74,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "skullcrusher"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Gul'dan",
+              "ru_RU": "Gul'dan",
+              "en_GB": "Gul'dan",
+              "zh_TW": "古爾丹",
+              "ko_KR": "Gul'dan",
+              "en_US": "Gul'dan",
+              "es_MX": "Gul'dan",
+              "pt_BR": "Gul'dan",
+              "es_ES": "Gul'dan",
+              "zh_CN": "古尔丹",
+              "fr_FR": "Gul'dan",
+              "de_DE": "Gul'dan"
+            },
+            "id": 1068,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "guldan"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Zuluhed",
+              "ru_RU": "Zuluhed",
+              "en_GB": "Zuluhed",
+              "zh_TW": "祖魯希德",
+              "ko_KR": "Zuluhed",
+              "en_US": "Zuluhed",
+              "es_MX": "Zuluhed",
+              "pt_BR": "Zuluhed",
+              "es_ES": "Zuluhed",
+              "zh_CN": "祖鲁希德",
+              "fr_FR": "Zuluhed",
+              "de_DE": "Zuluhed"
+            },
+            "id": 1259,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "zuluhed"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Ursin",
+              "ru_RU": "Ursin",
+              "en_GB": "Ursin",
+              "zh_TW": "烏爾辛",
+              "ko_KR": "Ursin",
+              "en_US": "Ursin",
+              "es_MX": "Ursin",
+              "pt_BR": "Ursin",
+              "es_ES": "Ursin",
+              "zh_CN": "Ursin",
+              "fr_FR": "Ursin",
+              "de_DE": "Ursin"
+            },
+            "id": 156,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "ursin"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Andorhal",
+              "ru_RU": "Andorhal",
+              "en_GB": "Andorhal",
+              "zh_TW": "安多哈爾",
+              "ko_KR": "Andorhal",
+              "en_US": "Andorhal",
+              "es_MX": "Andorhal",
+              "pt_BR": "Andorhal",
+              "es_ES": "Andorhal",
+              "zh_CN": "安多哈尔",
+              "fr_FR": "Andorhal",
+              "de_DE": "Andorhal"
+            },
+            "id": 1276,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "andorhal"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Black Dragonflight",
+              "ru_RU": "Род черных драконов",
+              "en_GB": "Black Dragonflight",
+              "zh_TW": "黑龍軍團",
+              "ko_KR": "Black Dragonflight",
+              "en_US": "Black Dragonflight",
+              "es_MX": "Black Dragonflight",
+              "pt_BR": "Black Dragonflight",
+              "es_ES": "Black Dragonflight",
+              "zh_CN": "黑龙军团",
+              "fr_FR": "Black Dragonflight",
+              "de_DE": "Black Dragonflight"
+            },
+            "id": 1280,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "black-dragonflight"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Velen",
+              "ru_RU": "Velen",
+              "en_GB": "Velen",
+              "zh_TW": "費倫",
+              "ko_KR": "Velen",
+              "en_US": "Velen",
+              "es_MX": "Velen",
+              "pt_BR": "Velen",
+              "es_ES": "Velen",
+              "zh_CN": "维伦",
+              "fr_FR": "Velen",
+              "de_DE": "Velen"
+            },
+            "id": 1567,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "velen"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Scilla",
+              "ru_RU": "Scilla",
+              "en_GB": "Scilla",
+              "zh_TW": "席拉",
+              "ko_KR": "Scilla",
+              "en_US": "Scilla",
+              "es_MX": "Scilla",
+              "pt_BR": "Scilla",
+              "es_ES": "Scilla",
+              "zh_CN": "Scilla",
+              "fr_FR": "Scilla",
+              "de_DE": "Scilla"
+            },
+            "id": 1267,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "scilla"
+          }
+        ],
+        "id": 96,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Alta",
+            "ru_RU": "Высокая",
+            "en_GB": "High",
+            "zh_TW": "高",
+            "ko_KR": "혼잡",
+            "en_US": "High",
+            "es_MX": "Alto",
+            "pt_BR": "Alto",
+            "es_ES": "Alto",
+            "zh_CN": "高",
+            "fr_FR": "Élevée",
+            "de_DE": "Hoch"
+          },
+          "type": "HIGH"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/99?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Llane",
+              "ru_RU": "Llane",
+              "en_GB": "Llane",
+              "zh_TW": "萊恩",
+              "ko_KR": "Llane",
+              "en_US": "Llane",
+              "es_MX": "Llane",
+              "pt_BR": "Llane",
+              "es_ES": "Llane",
+              "zh_CN": "莱恩",
+              "fr_FR": "Llane",
+              "de_DE": "Llane"
+            },
+            "id": 99,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "llane"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Arygos",
+              "ru_RU": "Arygos",
+              "en_GB": "Arygos",
+              "zh_TW": "亞雷戈斯",
+              "ko_KR": "Arygos",
+              "en_US": "Arygos",
+              "es_MX": "Arygos",
+              "pt_BR": "Arygos",
+              "es_ES": "Arygos",
+              "zh_CN": "亚雷戈斯",
+              "fr_FR": "Arygos",
+              "de_DE": "Arygos"
+            },
+            "id": 1297,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "arygos"
+          }
+        ],
+        "id": 99,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/100?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Earthen Ring",
+              "ru_RU": "Служители Земли",
+              "en_GB": "Earthen Ring",
+              "zh_TW": "陶土議會",
+              "ko_KR": "Earthen Ring",
+              "en_US": "Earthen Ring",
+              "es_MX": "Earthen Ring",
+              "pt_BR": "Earthen Ring",
+              "es_ES": "Earthen Ring",
+              "zh_CN": "大地之环",
+              "fr_FR": "Earthen Ring",
+              "de_DE": "Earthen Ring"
+            },
+            "id": 100,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Gioco di Ruolo",
+                "ru_RU": "Ролевой",
+                "en_GB": "Roleplaying",
+                "zh_TW": "角色扮演",
+                "ko_KR": "롤플레이",
+                "en_US": "Roleplaying",
+                "es_MX": "Juego de rol",
+                "pt_BR": "Interpretação",
+                "es_ES": "Juego de rol",
+                "zh_CN": "角色扮演",
+                "fr_FR": "JdR",
+                "de_DE": "Rollenspiel"
+              },
+              "type": "RP"
+            },
+            "slug": "earthen-ring"
+          }
+        ],
+        "id": 100,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/127?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Firetree",
+              "ru_RU": "Firetree",
+              "en_GB": "Firetree",
+              "zh_TW": "火焰之樹",
+              "ko_KR": "Firetree",
+              "en_US": "Firetree",
+              "es_MX": "Firetree",
+              "pt_BR": "Firetree",
+              "es_ES": "Firetree",
+              "zh_CN": "火焰之树",
+              "fr_FR": "Firetree",
+              "de_DE": "Firetree"
+            },
+            "id": 127,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "firetree"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Drak'Tharon",
+              "ru_RU": "Drak'Tharon",
+              "en_GB": "Drak'Tharon",
+              "zh_TW": "德拉克薩隆",
+              "ko_KR": "Drak'Tharon",
+              "en_US": "Drak'Tharon",
+              "es_MX": "Drak'Tharon",
+              "pt_BR": "Drak'Tharon",
+              "es_ES": "Drak'Tharon",
+              "zh_CN": "达克萨隆",
+              "fr_FR": "Drak'Tharon",
+              "de_DE": "Drak'Tharon"
+            },
+            "id": 1362,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "draktharon"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Rivendare",
+              "ru_RU": "Rivendare",
+              "en_GB": "Rivendare",
+              "zh_TW": "瑞文戴爾",
+              "ko_KR": "Rivendare",
+              "en_US": "Rivendare",
+              "es_MX": "Rivendare",
+              "pt_BR": "Rivendare",
+              "es_ES": "Rivendare",
+              "zh_CN": "瑞文戴尔",
+              "fr_FR": "Rivendare",
+              "de_DE": "Rivendare"
+            },
+            "id": 1358,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "rivendare"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Vashj",
+              "ru_RU": "Vashj",
+              "en_GB": "Vashj",
+              "zh_TW": "瓦許",
+              "ko_KR": "Vashj",
+              "en_US": "Vashj",
+              "es_MX": "Vashj",
+              "pt_BR": "Vashj",
+              "es_ES": "Vashj",
+              "zh_CN": "瓦丝琪",
+              "fr_FR": "Vashj",
+              "de_DE": "Vashj"
+            },
+            "id": 1348,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "vashj"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Spirestone",
+              "ru_RU": "Spirestone",
+              "en_GB": "Spirestone",
+              "zh_TW": "尖石",
+              "ko_KR": "Spirestone",
+              "en_US": "Spirestone",
+              "es_MX": "Spirestone",
+              "pt_BR": "Spirestone",
+              "es_ES": "Spirestone",
+              "zh_CN": "岩石巨塔",
+              "fr_FR": "Spirestone",
+              "de_DE": "Spirestone"
+            },
+            "id": 124,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "spirestone"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Malorne",
+              "ru_RU": "Malorne",
+              "en_GB": "Malorne",
+              "zh_TW": "瑪洛尼",
+              "ko_KR": "Malorne",
+              "en_US": "Malorne",
+              "es_MX": "Malorne",
+              "pt_BR": "Malorne",
+              "es_ES": "Malorne",
+              "zh_CN": "玛洛恩",
+              "fr_FR": "Malorne",
+              "de_DE": "Malorne"
+            },
+            "id": 1148,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "malorne"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Frostwolf",
+              "ru_RU": "Frostwolf",
+              "en_GB": "Frostwolf",
+              "zh_TW": "霜狼",
+              "ko_KR": "Frostwolf",
+              "en_US": "Frostwolf",
+              "es_MX": "Frostwolf",
+              "pt_BR": "Frostwolf",
+              "es_ES": "Frostwolf",
+              "zh_CN": "霜狼",
+              "fr_FR": "Frostwolf",
+              "de_DE": "Frostwolf"
+            },
+            "id": 7,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "frostwolf"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Stormscale",
+              "ru_RU": "Stormscale",
+              "en_GB": "Stormscale",
+              "zh_TW": "雷鱗",
+              "ko_KR": "Stormscale",
+              "en_US": "Stormscale",
+              "es_MX": "Stormscale",
+              "pt_BR": "Stormscale",
+              "es_ES": "Stormscale",
+              "zh_CN": "风暴之鳞",
+              "fr_FR": "Stormscale",
+              "de_DE": "Stormscale"
+            },
+            "id": 110,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "stormscale"
+          }
+        ],
+        "id": 127,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Alta",
+            "ru_RU": "Высокая",
+            "en_GB": "High",
+            "zh_TW": "高",
+            "ko_KR": "혼잡",
+            "en_US": "High",
+            "es_MX": "Alto",
+            "pt_BR": "Alto",
+            "es_ES": "Alto",
+            "zh_CN": "高",
+            "fr_FR": "Élevée",
+            "de_DE": "Hoch"
+          },
+          "type": "HIGH"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/1175?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Trollbane",
+              "ru_RU": "Trollbane",
+              "en_GB": "Trollbane",
+              "zh_TW": "托爾貝恩",
+              "ko_KR": "Trollbane",
+              "en_US": "Trollbane",
+              "es_MX": "Trollbane",
+              "pt_BR": "Trollbane",
+              "es_ES": "Trollbane",
+              "zh_CN": "托尔贝恩",
+              "fr_FR": "Trollbane",
+              "de_DE": "Trollbane"
+            },
+            "id": 1175,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "trollbane"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Grizzly Hills",
+              "ru_RU": "Grizzly Hills",
+              "en_GB": "Grizzly Hills",
+              "zh_TW": "灰白之丘",
+              "ko_KR": "Grizzly Hills",
+              "en_US": "Grizzly Hills",
+              "es_MX": "Grizzly Hills",
+              "pt_BR": "Grizzly Hills",
+              "es_ES": "Grizzly Hills",
+              "zh_CN": "灰熊丘陵",
+              "fr_FR": "Grizzly Hills",
+              "de_DE": "Grizzly Hills"
+            },
+            "id": 1579,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "grizzly-hills"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Malfurion",
+              "ru_RU": "Malfurion",
+              "en_GB": "Malfurion",
+              "zh_TW": "瑪法里恩",
+              "ko_KR": "Malfurion",
+              "en_US": "Malfurion",
+              "es_MX": "Malfurion",
+              "pt_BR": "Malfurion",
+              "es_ES": "Malfurion",
+              "zh_CN": "玛法里奥",
+              "fr_FR": "Malfurion",
+              "de_DE": "Malfurion"
+            },
+            "id": 1132,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "malfurion"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Lothar",
+              "ru_RU": "Lothar",
+              "en_GB": "Lothar",
+              "zh_TW": "洛薩",
+              "ko_KR": "Lothar",
+              "en_US": "Lothar",
+              "es_MX": "Lothar",
+              "pt_BR": "Lothar",
+              "es_ES": "Lothar",
+              "zh_CN": "洛萨",
+              "fr_FR": "Lothar",
+              "de_DE": "Lothar"
+            },
+            "id": 68,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "lothar"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Kael'thas",
+              "ru_RU": "Kael'thas",
+              "en_GB": "Kael'thas",
+              "zh_TW": "凱爾薩斯",
+              "ko_KR": "Kael'thas",
+              "en_US": "Kael'thas",
+              "es_MX": "Kael'thas",
+              "pt_BR": "Kael'thas",
+              "es_ES": "Kael'thas",
+              "zh_CN": "凯尔萨斯",
+              "fr_FR": "Kael'thas",
+              "de_DE": "Kael'thas"
+            },
+            "id": 1069,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "kaelthas"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Gnomeregan",
+              "ru_RU": "Gnomeregan",
+              "en_GB": "Gnomeregan",
+              "zh_TW": "諾姆瑞根",
+              "ko_KR": "Gnomeregan",
+              "en_US": "Gnomeregan",
+              "es_MX": "Gnomeregan",
+              "pt_BR": "Gnomeregan",
+              "es_ES": "Gnomeregan",
+              "zh_CN": "诺莫瑞根",
+              "fr_FR": "Gnomeregan",
+              "de_DE": "Gnomeregan"
+            },
+            "id": 1287,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "gnomeregan"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Moonrunner",
+              "ru_RU": "Moonrunner",
+              "en_GB": "Moonrunner",
+              "zh_TW": "月行者",
+              "ko_KR": "Moonrunner",
+              "en_US": "Moonrunner",
+              "es_MX": "Moonrunner",
+              "pt_BR": "Moonrunner",
+              "es_ES": "Moonrunner",
+              "zh_CN": "月行者",
+              "fr_FR": "Moonrunner",
+              "de_DE": "Moonrunner"
+            },
+            "id": 153,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "moonrunner"
+          },
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Ghostlands",
+              "ru_RU": "Ghostlands",
+              "en_GB": "Ghostlands",
+              "zh_TW": "鬼魂之地",
+              "ko_KR": "Ghostlands",
+              "en_US": "Ghostlands",
+              "es_MX": "Ghostlands",
+              "pt_BR": "Ghostlands",
+              "es_ES": "Ghostlands",
+              "zh_CN": "幽魂之地",
+              "fr_FR": "Ghostlands",
+              "de_DE": "Ghostlands"
+            },
+            "id": 1578,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "ghostlands"
+          }
+        ],
+        "id": 1175,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Alta",
+            "ru_RU": "Высокая",
+            "en_GB": "High",
+            "zh_TW": "高",
+            "ko_KR": "혼잡",
+            "en_US": "High",
+            "es_MX": "Alto",
+            "pt_BR": "Alto",
+            "es_ES": "Alto",
+            "zh_CN": "高",
+            "fr_FR": "Élevée",
+            "de_DE": "Hoch"
+          },
+          "type": "HIGH"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/3676?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Area 52",
+              "ru_RU": "Area 52",
+              "en_GB": "Area 52",
+              "zh_TW": "52區",
+              "ko_KR": "Area 52",
+              "en_US": "Area 52",
+              "es_MX": "Area 52",
+              "pt_BR": "Area 52",
+              "es_ES": "Area 52",
+              "zh_CN": "Area 52",
+              "fr_FR": "Area 52",
+              "de_DE": "Area 52"
+            },
+            "id": 1566,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "area-52"
+          }
+        ],
+        "id": 3676,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/3678?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Thrall",
+              "ru_RU": "Thrall",
+              "en_GB": "Thrall",
+              "zh_TW": "索爾",
+              "ko_KR": "Thrall",
+              "en_US": "Thrall",
+              "es_MX": "Thrall",
+              "pt_BR": "Thrall",
+              "es_ES": "Thrall",
+              "zh_CN": "萨尔",
+              "fr_FR": "Thrall",
+              "de_DE": "Thrall"
+            },
+            "id": 1263,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "thrall"
+          }
+        ],
+        "id": 3678,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/3683?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Dalaran",
+              "ru_RU": "Dalaran",
+              "en_GB": "Dalaran",
+              "zh_TW": "達拉然",
+              "ko_KR": "Dalaran",
+              "en_US": "Dalaran",
+              "es_MX": "Dalaran",
+              "pt_BR": "Dalaran",
+              "es_ES": "Dalaran",
+              "zh_CN": "达拉然",
+              "fr_FR": "Dalaran",
+              "de_DE": "Dalaran"
+            },
+            "id": 66,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "dalaran"
+          }
+        ],
+        "id": 3683,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Saturo",
+            "ru_RU": "Нет мест",
+            "en_GB": "Full",
+            "zh_TW": "滿",
+            "ko_KR": "정원초과",
+            "en_US": "Full",
+            "es_MX": "Lleno",
+            "pt_BR": "Completo",
+            "es_ES": "Lleno",
+            "zh_CN": "满",
+            "fr_FR": "Complet",
+            "de_DE": "Voll"
+          },
+          "type": "FULL"
+        }
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/connected-realm/3685?namespace=dynamic-us"
+      },
+      "data": {
+        "realms": [
+          {
+            "is_tournament": false,
+            "timezone": "America/New_York",
+            "name": {
+              "it_IT": "Turalyon",
+              "ru_RU": "Turalyon",
+              "en_GB": "Turalyon",
+              "zh_TW": "圖拉揚",
+              "ko_KR": "Turalyon",
+              "en_US": "Turalyon",
+              "es_MX": "Turalyon",
+              "pt_BR": "Turalyon",
+              "es_ES": "Turalyon",
+              "zh_CN": "图拉扬",
+              "fr_FR": "Turalyon",
+              "de_DE": "Turalyon"
+            },
+            "id": 1265,
+            "region": {
+              "name": {
+                "it_IT": "Nord America",
+                "ru_RU": "Северная Америка",
+                "en_GB": "North America",
+                "zh_TW": "北美",
+                "ko_KR": "미국",
+                "en_US": "North America",
+                "es_MX": "Norteamérica",
+                "pt_BR": "América do Norte",
+                "es_ES": "Norteamérica",
+                "zh_CN": "北美",
+                "fr_FR": "Amérique du Nord",
+                "de_DE": "Nordamerika"
+              },
+              "id": 1
+            },
+            "category": {
+              "it_IT": "Stati Uniti",
+              "ru_RU": "США",
+              "en_GB": "United States",
+              "zh_TW": "美國",
+              "ko_KR": "미국",
+              "en_US": "United States",
+              "es_MX": "Estados Unidos",
+              "pt_BR": "Estados Unidos",
+              "es_ES": "Estados Unidos",
+              "zh_CN": "美国",
+              "fr_FR": "États-Unis",
+              "de_DE": "Vereinigte Staaten"
+            },
+            "locale": "enUS",
+            "type": {
+              "name": {
+                "it_IT": "Normale",
+                "ru_RU": "Обычный",
+                "en_GB": "Normal",
+                "zh_TW": "一般",
+                "ko_KR": "일반",
+                "en_US": "Normal",
+                "es_MX": "Normal",
+                "pt_BR": "Normal",
+                "es_ES": "Normal",
+                "zh_CN": "普通",
+                "fr_FR": "Normal",
+                "de_DE": "Normal"
+              },
+              "type": "NORMAL"
+            },
+            "slug": "turalyon"
+          }
+        ],
+        "id": 3685,
+        "has_queue": false,
+        "status": {
+          "name": {
+            "it_IT": "Attivo",
+            "ru_RU": "Работает",
+            "en_GB": "Up",
+            "zh_TW": "正常",
+            "ko_KR": "정상",
+            "en_US": "Up",
+            "es_MX": "Disponible",
+            "pt_BR": "Para Cima",
+            "es_ES": "Activo",
+            "zh_CN": "正常",
+            "fr_FR": "En ligne",
+            "de_DE": "Verfügbar"
+          },
+          "type": "UP"
+        },
+        "population": {
+          "name": {
+            "it_IT": "Bassa",
+            "ru_RU": "Низкая",
+            "en_GB": "Low",
+            "zh_TW": "低",
+            "ko_KR": "쾌적",
+            "en_US": "Low",
+            "es_MX": "Bajo",
+            "pt_BR": "Baixo",
+            "es_ES": "Bajo",
+            "zh_CN": "低",
+            "fr_FR": "Faible",
+            "de_DE": "Niedrig"
+          },
+          "type": "LOW"
+        }
+      }
+    }
+  ]
+}
