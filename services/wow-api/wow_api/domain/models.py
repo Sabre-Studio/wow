@@ -1,5 +1,6 @@
-from pydantic import BaseModel
 from enum import StrEnum, auto
+
+from pydantic import BaseModel
 
 
 class BlizzardRegion(StrEnum):
@@ -38,10 +39,10 @@ class RealmPopulation(BaseModel):
 
 
 class Realm(BaseModel):
+    id: int
     is_tournament: bool
     timezone: str
     name: str
-    id: int
     region: Region
     category: str
     locale: str
@@ -50,9 +51,9 @@ class Realm(BaseModel):
 
 
 class ConnectedRealm(BaseModel):
+    id: int
     href: str
     realms: list[Realm]
-    id: int
     has_queue: bool
     status: RealmStatus
     population: RealmPopulation

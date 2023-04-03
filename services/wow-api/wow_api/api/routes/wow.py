@@ -1,11 +1,9 @@
 from fastapi import APIRouter
+
 from wow_api.external.blizz_api.auth import BlizzardApiAuth
 from wow_api.external.blizz_api.game.connected_realm import (
-    ConnectedRealmResponse,
-    get_connected_realm_search,
-    get_connected_realm_by_id,
-    ConnectedRealmSearchResponse,
-)
+    ConnectedRealmResponse, ConnectedRealmSearchResponse,
+    get_connected_realm_by_id, get_connected_realm_search)
 
 wow_router = APIRouter()
 
@@ -28,7 +26,9 @@ async def get_connected_realms() -> ConnectedRealmSearchResponse:
 
 
 @wow_router.get("/connected-realms/{connected_realm_id}", tags=["connected-realms"])
-async def get_connected_realm(connected_realm_id: int) -> ConnectedRealmResponse:
+async def get_connected_realm(
+    connected_realm_id: int,
+) -> ConnectedRealmResponse:
     return get_connected_realm_by_id(
         connected_realm_id=connected_realm_id, token=api_auth.get_token()
     )

@@ -1,7 +1,11 @@
-import * as React from 'react'
+import clsx from 'clsx'
 
 function Home() {
-  return <div></div>
+  return (
+    <main className={clsx('HomeWrapper', 'min-h-full')}>
+      <h1>Sabre Studio M+ Leaderboard</h1>
+    </main>
+  )
 }
 
 export default Home

@@ -1,0 +1,15 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://us.api.blizzard.com/data/wow/media/playable-specialization/260?namespace=static-10.0.7_48520-us"
+    }
+  },
+  "assets": [
+    {
+      "key": "icon",
+      "value": "https://render.worldofwarcraft.com/us/icons/56/ability_rogue_waylay.jpg",
+      "file_data_id": 236286
+    }
+  ],
+  "id": 260
+}

@@ -1,10 +1,12 @@
 from wow_api.external.blizz_api.auth import BlizzardApiAuth
-from wow_api.external.blizz_api.game.connected_realm import \
-    get_connected_realm_by_id
+from wow_api.external.blizz_api.wow.connected_realms.index import (
+    get_connected_realms_index,
+)
 
 api_auth = BlizzardApiAuth()
 
-proudmoore_realm = get_connected_realm_by_id(5, api_auth.get_token())
+connected_realm_index = get_connected_realms_index(api_auth.get_token())
 
-with open("./data/proudmoore.json", "w") as f:
-    f.write(proudmoore_realm.json(indent=2))
+
+with open("./data/realms.json", "w") as f:
+    f.write(connected_realm_index.json(indent=2))
