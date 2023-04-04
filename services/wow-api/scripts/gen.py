@@ -4,10 +4,10 @@ run_sh(
     [
         "datamodel-codegen",
         "--input",
-        "./data/key-leaderboard.json",
+        "./in/raw.json",
         "--input-file-type",
         "json",
         "--output",
-        "key_models.py",
+        "./out/leaderboard_models.py",
     ]
 )
