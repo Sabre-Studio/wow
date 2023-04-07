@@ -15,6 +15,10 @@
     {
       "name": "Api",
       "path": "./services/wow-api"
+    },
+    {
+      "name": "Workflows",
+      "path": "./data/wow-workflows"
     }
   ],
   "settings": {
